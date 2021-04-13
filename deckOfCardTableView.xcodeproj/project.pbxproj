@@ -15,6 +15,7 @@
 		FA01C2B32625C19F00039CD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA01C2B12625C19F00039CD5 /* LaunchScreen.storyboard */; };
 		FA01C2BE2625C1A000039CD5 /* deckOfCardTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA01C2BD2625C1A000039CD5 /* deckOfCardTableViewTests.swift */; };
 		FA01C2C92625C1A000039CD5 /* deckOfCardTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA01C2C82625C1A000039CD5 /* deckOfCardTableViewUITests.swift */; };
+		FA01C2DA2625C1AF00039CD5 /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA01C2D92625C1AF00039CD5 /* Cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA01C2C42625C1A000039CD5 /* deckOfCardTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = deckOfCardTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA01C2C82625C1A000039CD5 /* deckOfCardTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deckOfCardTableViewUITests.swift; sourceTree = "<group>"; };
 		FA01C2CA2625C1A000039CD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA01C2D92625C1AF00039CD5 /* Cards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FA01C2A62625C19B00039CD5 /* AppDelegate.swift */,
 				FA01C2A82625C19B00039CD5 /* SceneDelegate.swift */,
 				FA01C2AA2625C19B00039CD5 /* ViewController.swift */,
+				FA01C2D92625C1AF00039CD5 /* Cards.swift */,
 				FA01C2AC2625C19B00039CD5 /* Main.storyboard */,
 				FA01C2AF2625C19F00039CD5 /* Assets.xcassets */,
 				FA01C2B12625C19F00039CD5 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				FA01C2AB2625C19B00039CD5 /* ViewController.swift in Sources */,
 				FA01C2A72625C19B00039CD5 /* AppDelegate.swift in Sources */,
 				FA01C2A92625C19B00039CD5 /* SceneDelegate.swift in Sources */,
+				FA01C2DA2625C1AF00039CD5 /* Cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
